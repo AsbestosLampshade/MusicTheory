@@ -1,15 +1,15 @@
-#Project to learn the basics of Music Theory.
+# Project to learn the basics of Music Theory.
 
 Comprises:
 
-##Wav Creator:
+## Wav Creator:
 
 Creates a Simple wav file which comprises a Sin wave, produces a single tone
 
-##Wav Analyser:
+## Wav Analyser:
 
 Analyses .wav files and extracts metadata
 
-##Stereo to Mono
+## Stereo to Mono
 
 Composes mono wav files from stereo files. 
